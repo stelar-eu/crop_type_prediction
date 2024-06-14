@@ -7,3 +7,6 @@ The code for Training convolutional LSTM is adopted from :
 
 
 2. https://github.com/Orion-AI-Lab/S4A-Models : Supplementary repo with DL experiments using the Sen4AgriNet dataset
+
+
+3. Code for 3D unet is adopted from Bhattiprolu, S. (2023). python_for_microscopists. GitHub. https://github.com/bnsreenu/python_for_microscopists/blob/master/330_Detectron2_Instance_3D_EM_Platelet.ipynb
